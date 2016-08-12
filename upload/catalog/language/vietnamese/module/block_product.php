@@ -1,0 +1,1 @@
+<?php// Heading // Text$_['text_tax']      = 'Chưa thuế:';
